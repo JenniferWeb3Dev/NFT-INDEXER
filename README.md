@@ -5,7 +5,7 @@ This application allows users to **fetch and display NFTs** owned by a wallet ad
 
 ## 📸 App Preview
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/screenshot.png.png)
 
 
 ---
@@ -60,11 +60,13 @@ Big shoutout to the amazing contributors who helped shape this project:
 @alchemyplatform
  – Original project structure & base logic
 
-@contributor1
+@AlvaroLuken
  – UI cleanup and documentation
 
-@contributor2
+@arjuadhikary
  – Feature suggestions and testing
+
+@bagh257
 
 🙌 Feel free to contribute! PRs are welcome.
    
