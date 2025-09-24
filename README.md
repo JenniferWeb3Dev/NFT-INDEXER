@@ -2,7 +2,11 @@
 
 This application allows users to **fetch and display NFTs** owned by a wallet address on the Ethereum **Sepolia testnet**, using the Alchemy NFT API.
 
-![App Screenshot](./assets/screenshot.png.png)
+
+## 📸 App Preview
+
+![App Screenshot](./assets/screenshot.png)
+
 
 ---
 
